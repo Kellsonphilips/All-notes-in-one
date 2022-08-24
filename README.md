@@ -3,8 +3,9 @@
 - Onenote project and with the internet computer development programme `motoko` for the BackEnd . 
 - You can edit programme files to customize this project and to include your own code to speed up the development cycle.
 - `fork or clone` this repository to have a copy and test it in your local machine
+- Read below for more instructions
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens. Make a `PR` when you make some important changes.
 
 ---
 
@@ -16,13 +17,17 @@ To get started, you might want to explore the project directory structure and th
 - [Motoko Language Quick Reference](https://sdk.dfinity.org/docs/language-guide/language-manual.html)
 - [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.ic0.app)
 
-If you want to start working on your project right away, you might want to try the following commands:
+
+---
+
+## If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
 cd onenote/
 dfx help
 dfx config --help
 ```
+---
 
 ## Running the project locally
 
